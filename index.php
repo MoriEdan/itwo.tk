@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Selam aq...<h1><hr>";
-echo "Ayıp lan ayıp";
+echo "<h1>Test Server</h1><hr>";
+echo "<i>Work in progress...</i>";
